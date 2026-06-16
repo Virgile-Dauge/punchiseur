@@ -8,7 +8,7 @@ Take a song you like and **punch it up** — apply style presets (acid, hardcore
 
 ### Issue tracker
 
-Issues and PRDs live as GitHub issues (the `gh` CLI). The GitHub repo is **not created yet** — run `git init` + `gh repo create` before first use, otherwise `gh` can't infer the repo from a remote. See `docs/agents/issue-tracker.md`.
+Issues and PRDs live as GitHub issues (the `gh` CLI) in [`Virgile-Dauge/punchiseur`](https://github.com/Virgile-Dauge/punchiseur). `gh` infers the repo from the `origin` remote. See `docs/agents/issue-tracker.md`.
 
 ### Triage labels
 

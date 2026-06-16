@@ -2,7 +2,7 @@
 
 Issues and PRDs for this repo live as GitHub issues. Use the `gh` CLI for all operations.
 
-> **Repo not created yet.** Until `git init` + `gh repo create` have been run and a `git remote` points at GitHub, `gh` cannot infer the repo. Create it before the first `gh issue` call.
+> Repo: [`Virgile-Dauge/punchiseur`](https://github.com/Virgile-Dauge/punchiseur), remote `origin`. `gh` infers it automatically when run inside the clone.
 
 ## Conventions
 
